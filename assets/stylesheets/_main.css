@@ -1,0 +1,19 @@
+* {margin: 0; padding: 0;}
+
+body {
+    background-color: white;
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    font-size: small; 
+    padding-top: 5px;
+    padding-left: 45px;
+}
+
+/*  ------------------------------|  LAYOUT  |------------------------------  */
+  
+#wrapper {
+    padding-top: 50px;
+    text-align: left;
+    width: 780px;
+    position: relative;
+}  
