@@ -16,4 +16,9 @@ body {
     text-align: left;
     width: 780px;
     position: relative;
-}  
+}
+
+#cronoElement {
+    width: 300px;
+    background-color: #008fc6
+}
